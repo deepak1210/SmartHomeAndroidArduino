@@ -1,0 +1,4 @@
+copy whole project inside your Android studio projects. if it does not work properly, then yo should!
+1. start an android studio project with main activity
+2. copy and paste activity_main.xml BTDevicesActivity.java activity_bt_devices.xml MainActivity.java and strings.xml
+3. there will be some mistakes about java classes. please create. Android Studio will define you.
